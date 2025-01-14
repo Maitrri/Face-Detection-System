@@ -17,9 +17,9 @@ The Face Recognition and Detection System is a robust application developed usin
 
 ### **Prerequisites**  
 Before running the project, ensure the following:  
-- Python 3.x installed.  
-- Google Colab access for executing the project.  
-- OpenCV and MTCNN libraries installed in your environment.  
+- **Python 3.x installed.**  
+- **Google Colab access for executing the project.** 
+- **OpenCV and MTCNN libraries installed in your environment.**  
 
 ### **Results**  
 The system excels in detecting faces and marking facial features, offering precise and reliable performance. Its integration with Colab makes it user-friendly and accessible, providing instant visualization of detection results.
