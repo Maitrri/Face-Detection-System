@@ -1,4 +1,4 @@
-**Face Recognition and Detection System**  
+# Face Recognition and Detection System  
 
 The Face Recognition and Detection System is a robust application developed using Google Colab, Python, and OpenCV. It captures images via the laptop’s camera and immediately displays the results within the Colab environment. Leveraging the MTCNN (Multi-task Cascaded Convolutional Networks) algorithm, the system provides efficient face detection and alignment with remarkable accuracy and precision.  
 
